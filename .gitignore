@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Secrets — NEVER commit
+.env
+.env.local
+.env.*.local
+
+# TypeScript build info
+tsconfig.tsbuildinfo
+
+# Dev artifacts
+*.png
+*.jpg
+*.jpeg
+
+# OS
+.DS_Store
+Thumbs.db
